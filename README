@@ -1,0 +1,6 @@
+#CIDR Notation
+
+The purpose of this program is to get the user to input the ip address follwed the slash notation, for instance if the person typed in 192.168.10.42/24 would allow the program to determine the network address, the broadcast address and the amount of hosts allowed for that network.
+
+This is a first attempt at this.
+
